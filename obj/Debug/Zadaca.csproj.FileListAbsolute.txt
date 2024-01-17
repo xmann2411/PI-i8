@@ -1,0 +1,11 @@
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\obj\Debug\Zadaca.csproj.AssemblyReference.cache
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\obj\Debug\Zadaca.csproj.SuggestedBindingRedirects.cache
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\bin\Debug\Zadaca.exe.config
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\bin\Debug\Zadaca.exe
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\bin\Debug\Zadaca.pdb
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\bin\Debug\nunit.framework.dll
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\bin\Debug\nunit.framework.xml
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\obj\Debug\Zadaca.csproj.CopyComplete
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\obj\Debug\Zadaca.exe
+C:\Karla02\Programsko inž\I8_dzadaca\Pi-zadaca\Zadaca\obj\Debug\Zadaca.pdb
